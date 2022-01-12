@@ -62,7 +62,7 @@ if(crevasse_or_snow_day == 1){
  } else {
      let back_or_forward_day = prompt("Carrying on, you begin to lose direction. The wind is howling. Do you 1, retrace your footsteps, or 2, carry on upward.")
  if(back_or_forward_day == 1){
-     alert("Trying to backtrack, your footsteps had faded in the falling snow. Completely lost, your body gives out in the cold, dark night. RIP!")
+     alert("Trying to backtrack, your footsteps had faded in the falling snow. Completely lost, your body gives out in the cold. RIP!")
  } else {
      alert("You push upward, until you realise you are going downhill. You backtrack uphill, to ultimately fall into the crevasse. RIP!")
  }
